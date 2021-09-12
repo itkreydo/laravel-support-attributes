@@ -1,0 +1,20 @@
+{
+  "name": "itkreydo/laravel-support-attributes",
+  "description": "Laravel support attributes",
+  "license": "MIT",
+  "require": {
+    "php": "^8.0",
+    "illuminate/support": "^8.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Ikreydo\\LaravelSupportAttributes\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
