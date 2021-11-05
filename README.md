@@ -6,7 +6,7 @@ Available attributes:
 ## Installation
 Install with composer
 ```bash
-    composer require ikreydo/laravel-support-attributes
+    composer require itkreydo/laravel-support-attributes
 ```
 ## Attributes description
 
